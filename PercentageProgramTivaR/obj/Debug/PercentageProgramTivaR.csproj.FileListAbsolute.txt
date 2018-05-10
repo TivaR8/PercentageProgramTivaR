@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 4 (Procedures & Functions)\PercentageProgramTivaR\PercentageProgramTivaR\bin\Debug\PercentageProgramTivaR.exe.config
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 4 (Procedures & Functions)\PercentageProgramTivaR\PercentageProgramTivaR\bin\Debug\PercentageProgramTivaR.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 4 (Procedures & Functions)\PercentageProgramTivaR\PercentageProgramTivaR\bin\Debug\PercentageProgramTivaR.pdb
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 4 (Procedures & Functions)\PercentageProgramTivaR\PercentageProgramTivaR\obj\Debug\PercentageProgramTivaR.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 4 (Procedures & Functions)\PercentageProgramTivaR\PercentageProgramTivaR\obj\Debug\PercentageProgramTivaR.frmPercentageProgram.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 4 (Procedures & Functions)\PercentageProgramTivaR\PercentageProgramTivaR\obj\Debug\PercentageProgramTivaR.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 4 (Procedures & Functions)\PercentageProgramTivaR\PercentageProgramTivaR\obj\Debug\PercentageProgramTivaR.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 4 (Procedures & Functions)\PercentageProgramTivaR\PercentageProgramTivaR\obj\Debug\PercentageProgramTivaR.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 4 (Procedures & Functions)\PercentageProgramTivaR\PercentageProgramTivaR\obj\Debug\PercentageProgramTivaR.pdb
