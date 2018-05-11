@@ -12,7 +12,7 @@ using System.Windows.Forms;
  * Created on: 10-05-2018
  * Created for: ICS3U Programming
  * Daily Assignment – Day #30 - Percentage Program
- * This program...
+ * This program let's you enter what level you got and tells you what your mark would be in a percentage
 */
 
 namespace PercentageProgramTivaR
